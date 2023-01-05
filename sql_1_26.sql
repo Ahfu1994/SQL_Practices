@@ -1,0 +1,1 @@
+SELECT count(film_id) FROM film_category GROUP BY category_id

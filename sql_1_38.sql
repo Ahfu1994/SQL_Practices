@@ -1,0 +1,3 @@
+SELECT title, length, avg(length) 
+OVER(ORDER BY film_id ROWS BETWEEN 1 PRECEDING AND 1 FOLLOWING)
+FROM film

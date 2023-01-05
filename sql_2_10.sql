@@ -1,0 +1,15 @@
+-- UPDATE film 
+-- SET title = 'ONE FOR EVERYTHING',
+-- description = 'Test Movie for update',
+-- release_year = 2100,
+-- language_id = 5,
+-- rental_duration = 5,
+-- rental_rate = 10.6,
+-- length = 120,
+-- replacement_cost = 50.7,
+-- rating = 'PG'
+-- WHERE film_id = 4;
+-- 
+-- UPDATE category
+-- set 
+SELECT*FROM category

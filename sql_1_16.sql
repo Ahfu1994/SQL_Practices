@@ -1,0 +1,1 @@
+SELECT max(rental_rate) FROM film

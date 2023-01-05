@@ -1,0 +1,1 @@
+SELECT*FROM customer WHERE last_name like '_E%' AND store_id like 1;

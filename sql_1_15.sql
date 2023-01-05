@@ -1,0 +1,1 @@
+SELECT*FROM customer WHERE first_name like '%E_' ORDER BY store_id ASC 

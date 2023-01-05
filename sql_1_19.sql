@@ -1,0 +1,1 @@
+SELECT avg(replacement_cost) FROM film 

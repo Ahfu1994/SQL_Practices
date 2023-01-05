@@ -1,0 +1,1 @@
+SELECT count(rating) FROM film WHERE rating like 'PG-13'

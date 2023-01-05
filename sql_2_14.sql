@@ -1,0 +1,1 @@
+DELETE FROM actor WHERE first_name like 'K%';

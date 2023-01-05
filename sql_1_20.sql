@@ -1,0 +1,1 @@
+SELECT sum(length) From film WHERE rating LIKE 'G' 

@@ -1,0 +1,1 @@
+SELECT*FROM address WHERE address like '%Lane%'  OR address like '%Parkway%'
